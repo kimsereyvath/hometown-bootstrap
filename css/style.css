@@ -48,19 +48,19 @@ body{
 }
 
 .container-fluid{
-    border: solid red;
+
     padding: 0;
 }
 
 .featurette{
     padding-top: 15vh;
     padding-bottom: 5vh;
-    border: solid blue;
+
     margin: 0;
 }
 
 .featurette-heading{
-    border: solid yellow;
+
     text-align: center;
     color: white;
     font-size: 1.6em;
@@ -109,6 +109,6 @@ body{
     text-align: center;
 }
 
-.author{
-    background-origin: rgb(70, 60, 53) !important;
-}
+footer{
+    background-color: rgb(70, 60, 53) !important;
+    padding-bottom: 1.5vh;
