@@ -20,26 +20,26 @@ body{
 
 .home-welcome{
     position: absolute;
-    width: 98vw;
+    width: 100%;
     color: white;
-    top: 44vh;
+    top: 20vw;
     box-sizing: border-box;
 }
 
 .welcome{
     font-weight: 600;
-    font-size: 1.5em;
+    font-size: 2vw;
     text-align: center;
 }
 
 .name{
     font-weight: 600;
-    font-size: 4em;
+    font-size: 4.3vw;
     text-align: center;
 }
 
 .decor{
-    font-size: 4em;
+    font-size: 4.5vw;
     text-align: center;
 }
 
