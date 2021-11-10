@@ -7,6 +7,43 @@ body{
     max-width: 100%;
 }
 
+.home{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: rgb(70, 60, 53);
+}
+
+.home>img{
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.home-welcome{
+    position: absolute;
+    width: 98vw;
+    color: white;
+    top: 44vh;
+    box-sizing: border-box;
+}
+
+.welcome{
+    font-weight: 600;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.name{
+    font-weight: 600;
+    font-size: 4em;
+    text-align: center;
+}
+
+.decor{
+    font-size: 4em;
+    text-align: center;
+}
+
+
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
